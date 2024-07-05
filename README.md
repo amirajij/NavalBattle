@@ -28,5 +28,5 @@ This project is a naval battle game made in Kotlin, developed during the first y
 
 ## Author
 
-- [Amir Irshad](https://github.com/amirajij){:target="_blank"}
-- [Personal Website](https://amirajij.github.io/){:target="_blank"}
+- [Amir Irshad](https://github.com/amirajij)
+- [Personal Website](https://amirajij.github.io/)
