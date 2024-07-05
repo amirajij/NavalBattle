@@ -12,19 +12,19 @@ This project is a naval battle game made in Kotlin, developed during the first y
 
 ## Game Examples
 
-![Game Example 1](game-example-1.jpg)
-*Caption: Description or title for the image*
+![Game Example 1](images/a.png)
+*Caption: Definition of the board*
 
-![Game Example 2](game-example-2.jpg)
-*Caption: Description or title for the image*
+![Game Example 2](images/b.png)
+*Caption: Shooting and game winner*
 
 ## Save and Load Game Examples
 
-![Save and Load Example 1](save-load-example-1.jpg)
-*Caption: Description or title for the image*
+![Save and Load Example 1](images/e.png)
+*Caption: Saving the game after defining the board*
 
-![Save and Load Example 2](save-load-example-2.jpg)
-*Caption: Description or title for the image*
+![Save and Load Example 2](images/f.png)
+*Caption: Loading the game saved earlier*
 
 ## Author
 
