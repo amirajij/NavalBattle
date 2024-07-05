@@ -12,21 +12,29 @@ This project is a naval battle game made in Kotlin, developed during the first y
 
 ## Game Examples
 
-![Game Example 1](Images/a.png)
-*Caption: Definition of the board*
+<div style="text-align: center;">
+    <img src="Images/a.png" alt="Game Example 1" width="400"/>
+    <p><em>Caption: Definition of the board</em></p>
+</div>
 
-![Game Example 2](Images/b.png)
-*Caption: Shooting and game winner*
+<div style="text-align: center;">
+    <img src="Images/b.png" alt="Game Example 2" width="400"/>
+    <p><em>Caption: Shooting and game winner</em></p>
+</div>
 
 ## Save and Load Game Examples
 
-![Save and Load Example 1](Images/e.png)
-*Caption: Saving the game after defining the board*
+<div style="text-align: center;">
+    <img src="Images/e.png" alt="Save and Load Example 1" width="400"/>
+    <p><em>Caption: Saving the game after defining the board</em></p>
+</div>
 
-![Save and Load Example 2](Images/f.png)
-*Caption: Loading the game saved earlier*
+<div style="text-align: center;">
+    <img src="Images/f.png" alt="Save and Load Example 2" width="400"/>
+    <p><em>Caption: Loading the game saved earlier</em></p>
+</div>
 
 ## Author
 
-- [Amir Irshad](https://github.com/amirajij)
-- [Personal Website](https://amirajij.github.io/)
+- <a href="https://github.com/amirajij" target="_blank">Amir Irshad</a>
+- <a href="https://amirajij.github.io/" target="_blank">Personal Website</a>
